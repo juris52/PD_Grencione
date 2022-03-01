@@ -11,7 +11,7 @@
 #5 Greilihs Dīvs Rihards
 
 #6 Lange Rūdolfs Toms
-
+print(cos(radians(60)+fmod(15,2)))
 #7 Meškonis Aleksandrs Nils
 
 #8 Robežnieks Eduards
